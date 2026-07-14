@@ -1,0 +1,2 @@
+# quebeccrownlounge
+Static site: quebeccrownlounge
